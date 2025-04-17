@@ -32,9 +32,9 @@
 
 ## 💬 Quote of the Day
 
-<!-- QUOTE_START -->
-> Accountability is the glue that ties commitment to results.
-<!-- QUOTE_END -->
 
 <p align="right"> Made with ❤️ by Akash ✨ | Updated regularly 🛠️ </p>
 
+<!-- QUOTE_START -->
+> "Things don’t have to change the world to be important." — Steve Jobs
+<!-- QUOTE_END -->
