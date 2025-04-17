@@ -32,10 +32,6 @@
 
 ## 💬 Quote of the Day
 
-
-
-
-<p align="right"> Made with ❤️ by Akash ✨ | Updated regularly 🛠️ </p>
 <!-- QUOTE_START -->
 > "Accountability breeds response-ability." — Stephen R. Covey
 <!-- QUOTE_END -->
