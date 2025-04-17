@@ -36,5 +36,5 @@
 <p align="right"> Made with ❤️ by Akash ✨ | Updated regularly 🛠️ </p>
 
 <!-- QUOTE_START -->
-> "Things don’t have to change the world to be important." — Steve Jobs
+> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
 <!-- QUOTE_END -->
