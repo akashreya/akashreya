@@ -32,9 +32,10 @@
 
 ## 💬 Quote of the Day
 
-
-<p align="right"> Made with ❤️ by Akash ✨ | Updated regularly 🛠️ </p>
-
 <!-- QUOTE_START -->
 > "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
 <!-- QUOTE_END -->
+
+
+
+<p align="right"> Made with ❤️ by Akash ✨ | Updated regularly 🛠️ </p>
