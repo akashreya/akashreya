@@ -15,11 +15,11 @@
 [![Skills_1](https://skillicons.dev/icons?i=java,python,bash,mysql,spring,hibernate,react,eclipse,vscode,pycharm,jenkins,git,gitlab,maven,gradle,cmake,windows,linux,redhat,postman,aws,gcp)](https://skillicons.dev)
 
 ## :trophy: My Github Stats:
-![my_stats](https://github-readme-stats.vercel.app/api?username=akashreya&show_icons=true&locale=en)
+![my_stats](https://github-readme-stats.vercel.app/api?username=akashreya&show_icons=true&locale=en&theme=github_dark)
 
-![Top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=akashreya&show_icons=true&locale=en&layout=compact)
+![Top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=akashreya&show_icons=true&locale=en&layout=compact&theme=github_dark)
 
 ## 🔥 Streak Stats:
-![MY_Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashreya)
+![MY_Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashreya&theme=github_dark)
 
 
