@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Accountability breeds response-ability." — Stephen R. Covey
+> "Never stop learning, because life never stops teaching." — Anonymous
 <!-- QUOTE_END -->
