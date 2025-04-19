@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Never stop learning, because life never stops teaching." — Anonymous
+> "Stay hungry, stay foolish." — Steve Jobs
 <!-- QUOTE_END -->
