@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The only way to truly learn something is to build it yourself." — Sid Meier
+> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
 <!-- QUOTE_END -->
