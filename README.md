@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Accountability breeds response-ability." — Stephen R. Covey
+> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 <!-- QUOTE_END -->
