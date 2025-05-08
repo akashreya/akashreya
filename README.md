@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
