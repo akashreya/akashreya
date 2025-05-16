@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 <!-- QUOTE_END -->
