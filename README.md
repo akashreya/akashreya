@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 <!-- QUOTE_END -->
