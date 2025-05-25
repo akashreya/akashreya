@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
 <!-- QUOTE_END -->
