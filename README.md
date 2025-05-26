@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
+> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
 <!-- QUOTE_END -->
