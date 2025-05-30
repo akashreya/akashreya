@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
 <!-- QUOTE_END -->
