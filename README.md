@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." — Steve Jobs
+> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
 <!-- QUOTE_END -->
