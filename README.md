@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "Things don’t have to change the world to be important." — Steve Jobs
 <!-- QUOTE_END -->
