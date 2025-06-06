@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Things don’t have to change the world to be important." — Steve Jobs
+> "Never stop learning, because life never stops teaching." — Anonymous
 <!-- QUOTE_END -->
