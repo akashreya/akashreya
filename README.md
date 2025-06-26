@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
+> "Things don’t have to change the world to be important." — Steve Jobs
 <!-- QUOTE_END -->
