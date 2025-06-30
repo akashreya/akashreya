@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
+> "Accountability breeds response-ability." — Stephen R. Covey
 <!-- QUOTE_END -->
