@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Never stop learning, because life never stops teaching." — Anonymous
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
 <!-- QUOTE_END -->
