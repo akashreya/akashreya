@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
