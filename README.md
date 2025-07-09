@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The only way to truly learn something is to build it yourself." — Sid Meier
+> "Never stop learning, because life never stops teaching." — Anonymous
 <!-- QUOTE_END -->
