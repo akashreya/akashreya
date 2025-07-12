@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "When you have a lot of smart people on your team, you don’t hire them to tell them what to do—you hire them so they can tell you what to do." — Steve Jobs
 <!-- QUOTE_END -->
