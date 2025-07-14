@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The only way to truly learn something is to build it yourself." — Sid Meier
+> "Accountability breeds response-ability." — Stephen R. Covey
 <!-- QUOTE_END -->
