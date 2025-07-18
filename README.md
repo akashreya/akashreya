@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
 <!-- QUOTE_END -->
