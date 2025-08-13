@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Accountability breeds response-ability." — Stephen R. Covey
+> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
 <!-- QUOTE_END -->
