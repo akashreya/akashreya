@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
 <!-- QUOTE_END -->
