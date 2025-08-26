@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 <!-- QUOTE_END -->
