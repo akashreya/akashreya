@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
