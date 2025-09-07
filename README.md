@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn something is by teaching it to others." — Will Wright
+> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
 <!-- QUOTE_END -->
