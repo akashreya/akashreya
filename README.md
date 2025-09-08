@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 <!-- QUOTE_END -->
