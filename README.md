@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
+> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 <!-- QUOTE_END -->
