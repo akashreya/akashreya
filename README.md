@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
 <!-- QUOTE_END -->
