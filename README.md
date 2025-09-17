@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn something is by teaching it to others." — Will Wright
+> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
 <!-- QUOTE_END -->
