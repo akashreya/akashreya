@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
 <!-- QUOTE_END -->
