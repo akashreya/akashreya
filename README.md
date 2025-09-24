@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "When you have a lot of smart people on your team, you don’t hire them to tell them what to do—you hire them so they can tell you what to do." — Steve Jobs
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
 <!-- QUOTE_END -->
