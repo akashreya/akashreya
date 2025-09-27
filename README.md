@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Never stop learning, because life never stops teaching." — Anonymous
+> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
 <!-- QUOTE_END -->
