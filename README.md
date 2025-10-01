@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance." — Steve Jobs
+> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
 <!-- QUOTE_END -->
