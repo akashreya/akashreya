@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
 <!-- QUOTE_END -->
