@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
 <!-- QUOTE_END -->
