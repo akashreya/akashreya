@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
+> "Never stop learning, because life never stops teaching." — Anonymous
 <!-- QUOTE_END -->
