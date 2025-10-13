@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Never stop learning, because life never stops teaching." — Anonymous
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
