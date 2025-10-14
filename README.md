@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn something is by teaching it to others." — Will Wright
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
