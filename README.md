@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
 <!-- QUOTE_END -->
