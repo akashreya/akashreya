@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
