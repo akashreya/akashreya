@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." — Steve Jobs
 <!-- QUOTE_END -->
