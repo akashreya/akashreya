@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
 <!-- QUOTE_END -->
