@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
