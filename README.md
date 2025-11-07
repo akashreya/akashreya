@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
+> "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance." — Steve Jobs
 <!-- QUOTE_END -->
