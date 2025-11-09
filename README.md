@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Accountability breeds response-ability." — Stephen R. Covey
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
