@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
+> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
 <!-- QUOTE_END -->
