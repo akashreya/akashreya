@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." — Steve Jobs
+> "Things don’t have to change the world to be important." — Steve Jobs
 <!-- QUOTE_END -->
