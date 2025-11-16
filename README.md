@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Things don’t have to change the world to be important." — Steve Jobs
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
