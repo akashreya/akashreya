@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." — Steve Jobs
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
