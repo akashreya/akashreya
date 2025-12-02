@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
 <!-- QUOTE_END -->
