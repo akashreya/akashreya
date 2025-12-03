@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
+> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
 <!-- QUOTE_END -->
