@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
+> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
 <!-- QUOTE_END -->
