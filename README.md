@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
