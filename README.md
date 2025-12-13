@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." — Steve Jobs
+> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
 <!-- QUOTE_END -->
