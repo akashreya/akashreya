@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance." — Steve Jobs
+> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
 <!-- QUOTE_END -->
