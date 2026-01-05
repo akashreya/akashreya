@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "Accountability breeds response-ability." — Stephen R. Covey
 <!-- QUOTE_END -->
