@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Accountability breeds response-ability." — Stephen R. Covey
+> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
 <!-- QUOTE_END -->
