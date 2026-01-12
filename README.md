@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "Things don’t have to change the world to be important." — Steve Jobs
 <!-- QUOTE_END -->
