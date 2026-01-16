@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
 <!-- QUOTE_END -->
