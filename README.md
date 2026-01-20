@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
 <!-- QUOTE_END -->
