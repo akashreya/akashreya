@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance." — Steve Jobs
+> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 <!-- QUOTE_END -->
