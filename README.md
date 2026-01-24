@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "People who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
 <!-- QUOTE_END -->
