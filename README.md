@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
 <!-- QUOTE_END -->
