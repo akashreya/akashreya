@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "You don’t rise to the level of your goals. You fall to the level of your systems." — James Clear
+> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
 <!-- QUOTE_END -->
