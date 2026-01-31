@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
