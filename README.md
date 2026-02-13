@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
