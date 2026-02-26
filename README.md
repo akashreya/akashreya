@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn something is by teaching it to others." — Will Wright
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
 <!-- QUOTE_END -->
