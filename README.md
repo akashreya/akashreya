@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
+> "Your future is created by what you do today, not tomorrow." — Robert Kiyosaki
 <!-- QUOTE_END -->
