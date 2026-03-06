@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
+> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
 <!-- QUOTE_END -->
