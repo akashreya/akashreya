@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
+> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
 <!-- QUOTE_END -->
