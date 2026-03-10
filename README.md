@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Great things in business are never done by one person. They’re done by a team of people." — Steve Jobs
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
