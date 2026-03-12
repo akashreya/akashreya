@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." — Steve Jobs
 <!-- QUOTE_END -->
