@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
+> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
 <!-- QUOTE_END -->
