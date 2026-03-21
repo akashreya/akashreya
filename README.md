@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance." — Steve Jobs
+> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
 <!-- QUOTE_END -->
