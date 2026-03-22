@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Games are not just a medium, they are a new form of entertainment." —Hideo Kojima
+> "Growth begins at the end of your comfort zone." — Neale Donald Walsch
 <!-- QUOTE_END -->
