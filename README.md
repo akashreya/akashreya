@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
