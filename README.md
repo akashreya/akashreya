@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "Accountability breeds response-ability." — Stephen R. Covey
 <!-- QUOTE_END -->
