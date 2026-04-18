@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
+> "Things don’t have to change the world to be important." — Steve Jobs
 <!-- QUOTE_END -->
