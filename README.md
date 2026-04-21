@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "When you have a lot of smart people on your team, you don’t hire them to tell them what to do—you hire them so they can tell you what to do." — Steve Jobs
+> "Sometimes life hits you in the head with a brick. Don’t lose faith." — Steve Jobs
 <!-- QUOTE_END -->
