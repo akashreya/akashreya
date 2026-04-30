@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "The best way to learn is by doing. Stop waiting. Start building." — Unknown
+> "The best way to learn something is by teaching it to others." — Will Wright
 <!-- QUOTE_END -->
