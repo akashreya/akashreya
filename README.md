@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Things don’t have to change the world to be important." — Steve Jobs
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
