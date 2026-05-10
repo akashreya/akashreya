@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm Akash SK</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">Raised to respect time —<br>so I build systems that give it back.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashreya&label=Profile%20views&color=0e75b6&style=flat" alt="akashreya" /> </p>
+<p align="center">Tech Lead &nbsp;·&nbsp; AI automation builder &nbsp;·&nbsp; 15 years enterprise engineering</p>
 
-<p align="left">
-  🚀 Developer | 💻 Java Enthusiast | 🎮 Gamer | 🧠 Lifelong Learner
+---
+
+## What I build
+
+**COD/RTO Optimization Platform**  
+Real-time e-commerce order risk decisioning — 85 rules, 8 data signals, one decision in under 300ms. FICO GSI Partner Hackathon, first place. Judges asked: *"When are you marketing this?"*
+
+**EverythingABC** · [everythingabc.com](https://everythingabc.com)  
+~2000 users. Zero marketing. Solo product owner, full-stack, 4-suite regression framework. Built because vocabulary learning deserved better infrastructure than it had.
+
+**Poketopia** · [pokemon.akashreya.space](https://pokemon.akashreya.space)  
+~500 users. Zero marketing. Built to prove that frontend is a design problem first, an engineering problem second.
+---
+
+*Design the brief before the tool opens. Every feature that ships exists because someone's time was worth defending.*
+
+*AI generates fast. Validation is where the engineering lives.*
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-kantharaj-68526a3a" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on: Modern microservices, clean architecture, and DevOps automation
-- 👨‍👩‍👧 Proud dad & marathon runner 🏃‍♂️
-- 🎮 Gaming content creator (born in lockdown!)
-- 💬 Ask me about Java, Spring Boot, Kubernetes, CI/CD
-
-<h3 align="left">📫 Let's Connect!</h3> <a href="https://www.linkedin.com/in/akash-kantharaj-68526a3a" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> <a href="mailto:akashakashreya@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![Skills_1](https://skillicons.dev/icons?i=java,python,bash,mysql,spring,hibernate,react,eclipse,vscode,pycharm,jenkins,git,gitlab,maven,gradle,cmake,windows,linux,redhat,postman,aws,gcp)](https://skillicons.dev)
-
-## 📈 My Github Stats:
-![my_stats](https://github-readme-stats.vercel.app/api?username=akashreya&show_icons=true&locale=en&theme=github_dark)
-
-![Top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=akashreya&show_icons=true&locale=en&layout=compact&theme=github_dark)
-
-## 🔥 Streak Stats:
-![MY_Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashreya&theme=github_dark)
-
-## 💬 Quote of the Day
-
-<!-- QUOTE_START -->
-> "The only way to truly learn something is to build it yourself." — Sid Meier
-<!-- QUOTE_END -->
+<p align="center"><i>Also: proud dad, marathon runner, and gaming content creator born in lockdown.</i></p>
