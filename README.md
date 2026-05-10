@@ -33,5 +33,5 @@
 ## 💬 Quote of the Day
 
 <!-- QUOTE_START -->
-> "Discipline is choosing between what you want now and what you want most." — Abraham Lincoln
+> "The only way to truly learn something is to build it yourself." — Sid Meier
 <!-- QUOTE_END -->
